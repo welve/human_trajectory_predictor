@@ -6,8 +6,7 @@ This ROS2 package for real-time human detection from LiDAR data and future posit
 "This packgae utilizes the Velodyne LiDAR package."
  
 ## Environment
-ROS2 Humble
-
+ROS2 Humble <br>
 Ubuntu 22.04
 
 ## How to use
