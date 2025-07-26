@@ -7,6 +7,7 @@ This ROS2 package for real-time human detection from LiDAR data and future posit
  
 ## Environment
 ROS2 Humble
+
 Ubuntu 22.04
 
 ## How to use
